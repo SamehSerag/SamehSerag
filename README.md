@@ -7,7 +7,7 @@
 
 - 👯 I’m currently focusing on **Problem Solving**
 
-- 📄 I’m currently open for: A new job opportunity, [My-Resume](https://drive.google.com/file/d/1ROKRMVaxIWUHlnx6VBwGkh4vNe88Zcij/view?usp=sharing)
+- 📄 I’m currently open for: A new job opportunity, [My-Resume](https://drive.google.com/file/d/1GHeCbTCfrrcqzgnk834mlIuIQxUxeUt3/view)
 
 - 💬 Ask me about **.NET, Angular**
 
